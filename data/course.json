@@ -35,7 +35,8 @@
     "website": "11-433j-real-estate-economics-fall-2008"
   },
   "course_title": "Real Estate Economics",
-  "course_description": "This course, offered by the {{% resource_link \"fd660252-a6d7-47ce-8cf2-ef48e119dbed\" \"MIT Center for Real Estate\" %}}, focuses on developing an understanding of the macroeconomic factors that shape and influence markets for real property. We will develop the theory of land markets and locational choice. The material covered includes studies of changing economic activities, demographic trends, transportation and local government behavior as they affect real estate.\n",
+  "hide_download": true,
+  "course_description": "This course, offered by the [MIT Center for Real Estate](http://web.mit.edu/cre/), focuses on developing an understanding of the macroeconomic factors that shape and influence markets for real property. We will develop the theory of land markets and locational choice. The material covered includes studies of changing economic activities, demographic trends, transportation and local government behavior as they affect real estate.\n",
   "department_numbers": [
     "11",
     "15"
@@ -46,6 +47,7 @@
     "content": "e885d7e0-547d-a62a-193b-98b771f29da8",
     "website": "11-433j-real-estate-economics-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

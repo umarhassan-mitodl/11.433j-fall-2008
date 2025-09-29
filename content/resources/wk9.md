@@ -5,6 +5,8 @@ description: Lecture presentation on housing markets, macro analysis of housing,
 file: /courses/11-433j-real-estate-economics-fall-2008/cf80634d3d163eadf989c8fb1dfdbe01_wk9.pdf
 file_size: 548334
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

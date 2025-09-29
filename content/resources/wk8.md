@@ -6,6 +6,8 @@ description: Lecture presentation on regulating development, public goods, exter
 file: /courses/11-433j-real-estate-economics-fall-2008/ef48be6d990f3f454ea3e05b793e09f5_wk8.pdf
 file_size: 228744
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

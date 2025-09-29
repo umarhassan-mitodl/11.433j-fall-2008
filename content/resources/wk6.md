@@ -6,6 +6,8 @@ description: Lecture presentation on retail development, retail location, and ma
 file: /courses/11-433j-real-estate-economics-fall-2008/36a2a4f66888d15bf57f60f4a0d7bfbd_wk6.pdf
 file_size: 417834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

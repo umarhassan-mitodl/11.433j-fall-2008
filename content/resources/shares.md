@@ -7,6 +7,8 @@ description: Supporting files for a problem set on simulating shopping center de
 file: /courses/11-433j-real-estate-economics-fall-2008/5b3b31c19ba35205089b32474b1bd9f5_shares.zip
 file_size: 71965
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

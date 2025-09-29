@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides selected recitation notes from the course. All
   notes are courtesy of Jinhua Zhao, the course TA, and are used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

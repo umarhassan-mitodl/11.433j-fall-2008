@@ -5,6 +5,8 @@ description: Lecture presentation on residential land markets, the urban land ma
 file: /courses/11-433j-real-estate-economics-fall-2008/bf94dae097ca965fef271c6464cc7357_wk2.pdf
 file_size: 260210
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

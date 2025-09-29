@@ -6,6 +6,8 @@ description: "Lecture presentation on employment decentralization, edge cities, 
 file: /courses/11-433j-real-estate-economics-fall-2008/aa18f4e97da81718a0cb443d82065c59_wk5.pdf
 file_size: 919186
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

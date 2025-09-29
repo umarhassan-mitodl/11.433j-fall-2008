@@ -5,6 +5,8 @@ description: Lecture presentation on local government and land markets, property
 file: /courses/11-433j-real-estate-economics-fall-2008/016ef33fdb4f69b4b059a5409778c6c2_wk7.pdf
 file_size: 402634
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
